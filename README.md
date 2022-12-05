@@ -1,4 +1,4 @@
-#A Welcomming Short Note
+A Welcomming Short Note
 
    Hello everyone,
    
