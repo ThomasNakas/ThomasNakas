@@ -2,7 +2,7 @@
 
 Hello everyone,\
 my name is Thomas and I'm working as Mathematician(professor) and Artist(Musician).\
-My new life addition and hopefully potentially career path is the wed-developing.
+The new addition in my life and hopefully my new (career) path is the wed-developing.
 
 Since October 2022, I've started to learn HTML, CSS, JavaScript.\
 As an alumni of N.K.U.A  I know also Python, Java, MatLab, and Logo.
