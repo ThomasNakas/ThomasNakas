@@ -34,4 +34,3 @@ Overall, I'm excited about the prospect of joining the GitHub community and cont
 - Blockchain
 - Interactive Systems
 - Music Production
-- 
