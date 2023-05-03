@@ -6,7 +6,7 @@ Alongside my academic career, I've gained valuable experience in human resource 
 
 Driven by a long-standing fascination with software development, I recently made the decision to pursue a career in this field. My background in Mathematics and exposure to programming languages such as Java, Matlab, and R have equipped me with a keen sense of logic and an appreciation for interactive, instant-feedback systems.
 
-I'm actively learning and working with various technologies, including HTML, CSS, JavaScript, Python, React, 3js by participating into a Social Hackers Academy FrontEnd/Blockchain  Bootcamp. As for my interests, I'm drawn to software development, blockchain, interactive systems, and music production.
+I'm actively learning and working with various technologies, including HTML, CSS, JavaScript, Python, React, 3js by participating into a Social Hackers Academy's FrontEnd/Blockchain  Bootcamp. As for my interests, I'm drawn to software development, blockchain, interactive systems, and music production.
 
 ## Skills:
 
