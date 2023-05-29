@@ -2,7 +2,7 @@
 
 I'm Thomas, a passionate problem-solver and creative thinker. As an alumnus of Athens University, I hold a degree in Mathematics and have spent over a decade teaching and developing my skills in pedagogy and logical thinking.
 
-Alongside my academic career, I've gained valuable experience in human resource management, coordination, and adaptability in the hospitality industry for the past five years.
+Alongside my academic career, I've gained valuable experience in human resource management, coordination, and adaptability in the hospitality industry for the past four years.
 
 Driven by a long-standing fascination with software development, I recently made the decision to pursue a career in this field. My background in Mathematics and exposure to programming languages such as Java, Matlab, and R have equipped me with a keen sense of logic and an appreciation for interactive, instant-feedback systems.
 
