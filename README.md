@@ -22,17 +22,10 @@ Since March 2024 I've started my journey as a 42 student in Heilbronn of Germany
 
 ## Technologies:
 
-- HTML: <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="18px" height="18px"/>
-- CSS: <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="18px" height="18px"/>
-- JavaScript: <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="18px" height="18px"/>
-- Python: <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="18px" height="18px"/>
-- React: <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="18px" height="18px"/>
-- Three JS: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/512px-Three.js_Icon.svg.png?20211115112438" width="18px" height="18px"/>
-- Git:<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Git_format.png/640px-Git_format.png" width="18px" height="18px"/>
-- Node JS: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Font_Awesome_5_brands_node-js.svg/640px-Font_Awesome_5_brands_node-js.svg.png" width="18px" height="18px"/>
-- Express JS: <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="18px" height="18px"/>
-- Render: <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo-300x157.png" width="18px" height="18px"/>
-- Postman: <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="18px" height="18px"/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c&perline=4)](https://skillicons.dev)
 
 ## Interests:
 
