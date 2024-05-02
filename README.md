@@ -1,4 +1,5 @@
-Since March 2024, I've embarked on my journey as a student at 42 in Heilbronn, Germany. Our curriculum focuses on C and C++. Let's see what beautiful moments this choice will bring into my life.[![tnakas's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tnakas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+# 42 Heilbronn Journey(March 2024 - ongoing)
+[![tnakas's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tnakas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 # Greetings, GitHub community! 👋
 
 I'm Thomas, a passionate problem-solver and creative thinker. As an alumnus of Athens University, I hold a degree in Mathematics and have spent over a decade teaching and developing my skills in pedagogy and logical thinking.
