@@ -1,5 +1,5 @@
 ## 42 Heilbronn Journey(March 2024 - ongoing)
-[![tnakas's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tnakas?1337Badge=off)](https://github.com/oakoudad/badge42)
+[![tnakas's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tnakas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 # Greetings, GitHub community! 👋
 
 I'm Thomas, a passionate problem-solver and creative thinker. As an alumnus of Athens University, I hold a degree in Mathematics and have spent over a decade teaching and developing my skills in pedagogy and logical thinking.
