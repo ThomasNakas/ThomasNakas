@@ -1,4 +1,4 @@
-# 42 Heilbronn Journey(March 2024 - ongoing)
+## 42 Heilbronn Journey(March 2024 - ongoing)
 [![tnakas's 42 stats](https://badge.mediaplus.ma/colorfulwaves/tnakas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 # Greetings, GitHub community! 👋
 
