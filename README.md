@@ -22,9 +22,12 @@ Since March 2024 I've started my journey as a 42 student in Heilbronn of Germany
 
 ## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&perline=3)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,postman&perline=5)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=c&perline=4)](https://skillicons.dev)
 
 ## Interests:
