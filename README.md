@@ -1,15 +1,19 @@
-## 42 Heilbronn Journey(March 2024 - ongoing)
 # Greetings, GitHub community! 👋
 
-I'm Thomas, a passionate problem-solver and creative thinker. As an alumnus of Athens University, I hold a degree in Mathematics and have spent over a decade teaching and developing my skills in pedagogy and logical thinking.
+I am a **Full Stack Developer** with a collaborative mindset and a passion for building impactful digital solutions. I thrive in diverse environments, having worked as a **Social Worker (2018–2022)** with individuals from various backgrounds including refugees, immigrants, locals, Erasmus students, and tourists.
 
-Alongside my academic career, I've gained valuable experience in human resource management, coordination, and adaptability in the hospitality industry for the past four years.
+### 🧠 Education & Training
 
-Driven by a long-standing fascination with software development, I recently made the decision to pursue a career in this field. My background in Mathematics and exposure to programming languages such as Java, Matlab, and R have equipped me with a keen sense of logic and an appreciation for interactive, instant-feedback systems.
+- **42 Heilbronn** (Mar 2024 – Aug 2025)  
+  Focused on low-level programming with **C** and **C++**, deepened my knowledge on algorithmic problem-solving.
 
-I'm actively learning and working with various technologies, including HTML, CSS, JavaScript, Python, React, 3js by participating into a Social Hackers Academy's FrontEnd/Blockchain  Bootcamp. As for my interests, I'm drawn to software development, blockchain, interactive systems, and music production.
-
-Since March 2024 I've started my journey as a 42 student in Heilbronn of Germany. Our curicullum is in C and C++
+- **Social Hackers Academy**  
+  - **MERN Stack Development** (Aug 2023 – Mar 2024)  
+    Built full-stack web applications using **MongoDB, Express, React, Node.js**.
+  - **Front-End Blockchain Development** (Jan 2023 – Aug 2023)  
+    Developed decentralized applications using **Solidity** and smart contracts.
+- **National and Kapodistrian University Of Athens(N.K.U.A)**  
+  - **Bachelor in Mathematics** (Sep 2011 – Nov 2017)
 
 ## Skills:
 
