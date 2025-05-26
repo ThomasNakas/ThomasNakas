@@ -7,11 +7,6 @@ I am a **Full Stack Developer** with a collaborative mindset and a passion for b
 - **42 Heilbronn** (Mar 2024 – Aug 2025)  
   Focused on low-level programming with **C** and **C++**, deepened my knowledge on algorithmic problem-solving.
 
-- **Social Hackers Academy**  
-  - **MERN Stack Development** (Aug 2023 – Mar 2024)  
-    Built full-stack web applications using **MongoDB, Express, React, Node.js**.
-  - **Front-End Blockchain Development** (Jan 2023 – Aug 2023)  
-    Developed decentralized applications using **Solidity** and smart contracts.
 - **National and Kapodistrian University Of Athens(N.K.U.A)**  
   - **Bachelor in Mathematics** (Sep 2011 – Nov 2017)
 
